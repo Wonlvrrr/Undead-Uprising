@@ -1,0 +1,5 @@
+{
+  "name": "Retro Zombie Survivor",
+  "description": "A top-down 2D retro arcade zombie shooter featuring wave-based progression, multiple zombie types, and power-ups.",
+  "requestFramePermissions": []
+}
